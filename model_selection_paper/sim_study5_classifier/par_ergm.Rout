@@ -1,0 +1,41 @@
+Loading required package: network
+
+‘network’ 1.17.1 (2021-06-12), part of the Statnet Project
+* ‘news(package="network")’ for changes since last version
+* ‘citation("network")’ for citation information
+* ‘https://statnet.org’ for help, support, and other information
+
+
+‘ergm’ 4.1.2 (2021-07-26), part of the Statnet Project
+* ‘news(package="ergm")’ for changes since last version
+* ‘citation("ergm")’ for citation information
+* ‘https://statnet.org’ for help, support, and other information
+
+‘ergm’ 4 is a major update that introduces some backwards-incompatible
+changes. Please type ‘news(package="ergm")’ for a list of major
+changes.
+
+
+Attaching package: ‘igraph’
+
+The following objects are masked from ‘package:network’:
+
+    %c%, %s%, add.edges, add.vertices, delete.edges, delete.vertices,
+    get.edge.attribute, get.edges, get.vertex.attribute, is.bipartite,
+    is.directed, list.edge.attributes, list.vertex.attributes,
+    set.edge.attribute, set.vertex.attribute
+
+The following objects are masked from ‘package:stats’:
+
+    decompose, spectrum
+
+The following object is masked from ‘package:base’:
+
+    union
+
+randomForest 4.7-1.1
+Type rfNews() to see new features/changes/bug fixes.
+naivebayes 0.9.7 loaded
+> proc.time()
+      user     system    elapsed 
+805200.941   1239.291   6876.057 
